@@ -1,15 +1,15 @@
 # Gustavo Jaccoud
 
-## Sobre mim
+## About me
 
-Estudante de Analise e Desenvolvimento de sistemas animado para explorar oportunidades de aprendizado e desenvolvimento na área de tecnologia. Tenho trabalhado em projetos e aplicações utilizando uma variedade de tecnologias, incluindo PHP, Python, Laravel, HTML, CSS.
+I'm a System Development student excited to explore opportunities for learning and development in the tecnology area. I worked in projects and apps using a variety of languages and frameworks, like PHP, Python, Laravel, HTML and CSS.
 
-## Habilidades
+## Abilities
 
 ### Frameworks
 ![Laravel](https://img.shields.io/badge/laravel-f9322c.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
-### Linguagens
+### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-7A86B8.svg?style=for-the-badge&logo=php&logoColor=white)
 
@@ -19,11 +19,11 @@ Estudante de Analise e Desenvolvimento de sistemas animado para explorar oportun
 
 
 
-### Banco de dados
+### Date Base
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Sistema operacional
+### SO
 
 
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
@@ -35,7 +35,7 @@ Estudante de Analise e Desenvolvimento de sistemas animado para explorar oportun
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Jaccoud&layout=compact&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
 </div>
 
-## Conecte-se comigo
+## Connect with me
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gustavo-Jaccoud)
 
