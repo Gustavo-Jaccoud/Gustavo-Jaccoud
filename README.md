@@ -47,12 +47,3 @@ I'm a System Development student excited to explore opportunities for learning a
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](gustavo.c.jaccoud@gmail.com)
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/gustavo-jaccoud/)
-
-<div align="center">
-<br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/%7BGustavo-Jaccoud%7D/count.svg" /></p> 
-</div>
-
-
-
-
